@@ -13,5 +13,5 @@ Date: 2019-06-29
   - https://www.youtube.com/watch?v=dyiLLdkzzRc
   - https://twitter.com/bkase_
 
-Note to self: I learn best by doing things myself (and then going back to literature). Maybe it's a good idea to try to read a little bit, then work out a denotational design for a build system myself, and have it reviewed? If we end up with something nice, maybe I could try setting up GHC for compiling with categories and try implementing it?
+Note to self: I learn best by doing things myself (and then going back to literature). Maybe it's a good idea to try to read a little bit, then work out a denotational design for a build system myself, and have it reviewed? To really understand it I should try to explain it once it's done. If we end up with something nice, I could try setting up GHC for compiling with categories and try implementing it?
 
