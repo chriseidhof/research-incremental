@@ -9,9 +9,16 @@ Date: 2019-06-29
 - Most importantly
   - Read Conal's papers about denotational design in more depth.
   - Re-read the next 700 programming languages
+    - Note: http://conal.net/blog/posts/is-haskell-a-purely-functional-language#comment-626
 - (Unrelated) send over Brandon Kase's video:
   - https://www.youtube.com/watch?v=dyiLLdkzzRc
   - https://twitter.com/bkase_
 
 Note to self: I learn best by doing things myself (and then going back to literature). Maybe it's a good idea to try to read a little bit, then work out a denotational design for a build system myself, and have it reviewed? To really understand it I should try to explain it once it's done. If we end up with something nice, I could try setting up GHC for compiling with categories and try implementing it?
 
+---
+
+Additional Notes:
+
+- http://conal.net/papers/calculating-compilers-categorically/
+- http://conal.net/papers/essence-of-ad/
